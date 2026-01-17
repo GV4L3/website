@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "LSE GV330"
+  title: "LSE GV4L3"
   navbar:
     left:
       - href: index.qmd
@@ -21,8 +21,8 @@ execute:
 format:
   html:
     theme: 
-      light: spacelab
-      dark: superhero
+      light: cyborg
+      dark: cyborg
     css: styles.css
     toc: true
     font-family: sans-serif

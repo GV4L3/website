@@ -14,13 +14,13 @@ css: styles.css
 
 Welcome to the course website for GV4L3: Data Science Applications in Politics and Policy for WT 2026. This website and the associated github repo will be the primary location for all course materials.
 
-The Leganto reading list can be found [here](https://readings.lse.ac.uk/leganto/public/44LSE_INST/lists/11431308290002021?auth=SAML).
+The Leganto reading list can be found [here](https://moodle.lse.ac.uk/mod/lti/view.php?id=1658505).
 
-The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=12381). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
+The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=12439). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
 
 **Office Hours:** Please sign up via studenthub.
 
-**Undergraduate Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.ug@lse.ac.uk](mailto:gov.ug.lse.ac.uk)
+**MSc Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.msc@lse.ac.uk](mailto:gov.msc@lse.ac.uk)
 
 **Lectures and Seminars:** Lectures and seminars will take place as shown on the timetable. 
 
