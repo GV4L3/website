@@ -5,10 +5,10 @@ title: Topic 3
 
 ## Week 7: Social Media
 
-- [Lecture Slides (handout): Social Media](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture7_Social_Media.pdf)
-- [Seminar Repo](https://github.com/GV330/seminar6_SocialMedia)
+- [Lecture Slides (handout): Social Media](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture7_Social_Media.pdf)
+- [Seminar Repo](https://github.com/GV4L3/seminar6_SocialMedia)
 
 ## Week 8: Digital Trace Data
 
-- [Lecture Slides (handout): Digital Trace Data](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture8_Digital_Trace.pdf)
-- [Seminar Repo](https://github.com/GV330/seminar7_internet)
+- [Lecture Slides (handout): Digital Trace Data](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture8_Digital_Trace.pdf)
+- [Seminar Repo](https://github.com/GV4L3/seminar7_internet)

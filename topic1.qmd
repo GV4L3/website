@@ -5,10 +5,10 @@ title: Topic 1
 
 ## Week 2: Causality, Credibility, and "Big Data" I
 
-- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture2_Causality_and_CredibilityI.html) (HTML - download and open in browser)
-- [Seminar Slides](https://github.com/GV330/course_materials/blob/main/seminars/seminar2/GV330%20Seminar%202%20slides.pdf)
+- [Lecture Slides](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture2_Causality_and_CredibilityI.html) (HTML - download and open in browser)
+- [Seminar Slides](https://github.com/GV4L3/course_materials/blob/main/seminars/seminar2/GV4L3%20Seminar%202%20slides.pdf)
 
 ## Week 3: Causality, Credibility, and "Big Data" II
 
-- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture3_Causality_and_CredibilityII.pdf)
-- [Seminar Repo](https://github.com/GV330/seminar3_reproducibility)
+- [Lecture Slides](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture3_Causality_and_CredibilityII.pdf)
+- [Seminar Repo](https://github.com/GV4L3/seminar3_reproducibility)

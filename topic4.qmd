@@ -5,12 +5,12 @@ title: Topic 4
 
 ## Week 9: Text Data
 
-- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture9_Text%20as%20Data%20Handout.pdf)
-- [Seminar Repo](https://github.com/GV330/course_materials/tree/main/seminars/seminar9)
-    - [Seminar Slides](https://github.com/GV330/course_materials/blob/main/seminars/seminar9/seminar9_slides.html)
-    - [Seminar Notebook](https://github.com/GV330/course_materials/blob/main/seminars/seminar9/seminar9_text_data_notebook.html)
+- [Lecture Slides](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture9_Text%20as%20Data%20Handout.pdf)
+- [Seminar Repo](https://github.com/GV4L3/course_materials/tree/main/seminars/seminar9)
+    - [Seminar Slides](https://github.com/GV4L3/course_materials/blob/main/seminars/seminar9/seminar9_slides.html)
+    - [Seminar Notebook](https://github.com/GV4L3/course_materials/blob/main/seminars/seminar9/seminar9_text_data_notebook.html)
 
 ## Week 10: Audio, Image, and Video Data
 
-- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture10_Image_Video_Audio_Data.pdf)
-- [Seminar Repo](https://github.com/GV330/seminar9_audiovisual)
+- [Lecture Slides](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3_Lecture10_Image_Video_Audio_Data.pdf)
+- [Seminar Repo](https://github.com/GV4L3/seminar9_audiovisual)
