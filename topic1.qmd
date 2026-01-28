@@ -6,7 +6,7 @@ title: Topic 1
 ## Week 2: Causality, Credibility, and "Big Data" I
 
 - [Lecture Slides](https://github.com/GV4L3/course_materials/blob/main/lectures/GV4L3%20Lecture%202%20-%20Causality%20and%20Credibility%20Handout.pdf)
-- [Seminar Slides](https://github.com/GV4L3/course_materials/blob/main/seminars/seminar2/GV4L3%20Seminar%202%20slides.pdf)
+- [Seminar Slides](https://github.com/GV4L3/course_materials/blob/main/seminars/seminar2/GV4L3_Seminar2_Slides_handout.pdf)
 
 ## Week 3: Causality, Credibility, and "Big Data" II
 
