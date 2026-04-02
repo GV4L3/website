@@ -20,7 +20,7 @@ The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=
 
 Formative assessment materials can be found [here](https://github.com/GV4L3/course_materials/tree/main/other/Formative_assessment_repo).
 
-Summative assessment materials can be found [here](https://github.com/GV4L3/summative_assessment). Please upload your assessment to the Moodle by 5pm on Tuesday 5th May 2026.
+Summative assessment materials can be found [here](https://github.com/GV4L3/summative_assessment). Please upload your assessment to the Moodle by 5pm on Friday 8th May 2026.
 
 **Office Hours:** Please sign up via studenthub.
 
